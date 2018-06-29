@@ -1,0 +1,2 @@
+This is my first Git document which is been uploaded to GitHub on 29 Jun 2018.
+All the best. Happy Learning
